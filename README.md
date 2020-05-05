@@ -1,2 +1,5 @@
 # DH15-Assignment05
-![cahrt](chart.png)
+## Emily DiPressi 
+
+### Persona 1
+![Lola Baker](lolabaker.png)
