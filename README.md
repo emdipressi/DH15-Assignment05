@@ -20,6 +20,7 @@
 ### Lola and the Drought 
 * Lola is a third grade teacher, but also someone who is concerned about her locations drought. She knows that she lives in the desert, which sometimes does not receive a lot of rain, but this past winter and spring brought a lot of rain. As a curious environmentalist who wants to bring some fun facts to her science lesson at school, she wants to know if the drought conditions have improved. In her older age, Lola is not too keen on computers. Certain things are too complicated; she likes a website that has succinct information without extra fluff or distractions.
 * Wanting an official site, Lola logs into weather.gov one night. She successfully finds “Drought” both in the hover dropdown menu and when she clicks on “Safety” and everything is in alphabetical order. Upon clicking “Drought” she is taken to a page that has a box for images and smaller tabs on top of it and extra resources on the side. Lola clicks on “Monitoring, Forecasts” and the page changes slightly to have a different image and a widget from “drought.gov" where she can type in her zip code and get the drought information for her location, while still on the weather.gov site. If she wanted more detailed information on droughts she would click on a tab in the “Drought Resources” section on the side of the page, but for now she wants a not complicated answer to share with her class.
+![journeymaplola](journeylola.png)
 
 ## Scenario 2
 ### Clark and Temperature 
