@@ -15,3 +15,7 @@
 ![Ruby Lee](rubylee.png)
 ### Empathy Map
 ![empathymapruby](empathyruby.png)
+
+
+## Scenario 3
+### Ruby and Wildfires 
