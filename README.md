@@ -1,6 +1,9 @@
 # DH15-Assignment05
 ## Emily DiPressi 
 
+## The Purpose of UX Storytelling 
+text 
+
 ## Persona 1
 ![Lola Baker](lolabaker.png)
 ### Empathy Map
