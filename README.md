@@ -2,7 +2,7 @@
 ## Emily DiPressi 
 
 ## The Purpose of UX Storytelling 
-text 
+UX storytelling is important in user design. It allows the creators to gain more insight into their product and how it is used. Creating personas helps creators imagine the user and what their needs are and how different users would use the product. Storytelling will help in the future for more functionality and ease of use.  
 
 ## Persona 1
 ![Lola Baker](lolabaker.png)
