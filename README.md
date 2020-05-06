@@ -21,6 +21,8 @@
 
 ## Scenario 2
 ### Clark and Temperature 
+* Clark, a single dad, is in charge of getting his kids ready for school. He has three young children and mornings are hectic. In the past he has sent his kids to school without rain jackets because it didn’t look like it would rain, but then the weather changed and his kids were soaked because they didn’t have jackets, boots, or umbrellas. Clark felt responsible for his kid’s lack of preparedness. He wants to do better for his kids and find hourly weather reports and precipitation.
+*Clark navigates to weather.gov Monday morning before he wakes the kids up. To find the hourly weather report for his area, he first types in his zip code in the top left box where local forecast is clearly labeled. Upon entering his zip code he is taken to a page that has his current weather and  some extra information is given such as humidity and precipitation percentage. He finds “hourly weather forecast” under the tab labeled “more information”. He clicks that and is taken to a page of the same design. He is presented with a large, readable graph that has temperature clearly marked out each hour in a color that he can see. He happily leaves the site and leaves with knowing how the days temperature will change along with the chance of rain. He is able to dress his children appropriately. 
 ![journeymapclark](journeyclark.png)
 
 ## Scenario 3
