@@ -16,6 +16,12 @@
 ### Empathy Map
 ![empathymapruby](empathyruby.png)
 
+## Scenario 1
+### Lola and 
+
+## Scenario 2
+### Clark and Temperature 
+![journeymapclark](journeyclark.png)
 
 ## Scenario 3
 ### Ruby and Wildfires 
