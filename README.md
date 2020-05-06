@@ -9,7 +9,7 @@
 ### Persona 2
 ![Clark Waters](clarkwaters.png)
 ### Empathy Map
-![empathymapclark](empathyclark.png)
+![empathymapclark](empathyclark2.png)
 
 ### Persona 3
 ![Ruby Lee](rubylee.png)
