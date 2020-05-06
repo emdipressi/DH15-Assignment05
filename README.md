@@ -38,4 +38,4 @@ UX storytelling is important in user design. It allows the creators to gain more
 ![journeymapruby](journeyruby2.png)
 
 ### Design Thinking and Ideation 
-The Google doc extra credit can be found [Here] (https://docs.google.com/presentation/d/1ToLJd9H9R7_vOkAuqI1nS4v911viazgYUaLHtjLTtU4/edit?usp=sharing)
+The Google doc extra credit: https://docs.google.com/presentation/d/1ToLJd9H9R7_vOkAuqI1nS4v911viazgYUaLHtjLTtU4/edit?usp=sharing
